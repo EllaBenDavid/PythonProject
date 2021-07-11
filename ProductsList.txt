@@ -1,0 +1,19 @@
+-The products in our store-
+1- swimsuit(001), cost : 120
+2-belt(002), cost : 80
+3-pants(003), cost : 200
+4-skirt(004), cost : 100
+5-sneakers(005), cost : 250
+6-coat(006), cost : 400
+7-dress(007), cost : 130
+8- underpants(008), cost : 30
+9-slippers(009), cost : 45
+10-hat(010), cost : 80
+11-socks(011), cost : 50
+12-bag(012), cost : 60
+13-sunglasse(013), cost : 100
+14-pajamas(014), cost : 230
+15-sweater(015), cost : 160
+16-jans(016), cost : 260
+17-suit(017), cost : 550
+

@@ -1,0 +1,16 @@
+Hey ELLA, its your oreder details: 
+You by 2 products:
+1- swimsuit code :001 Price - 120$
+ 2- sneakers code :005 Price - 250$
+ SUM ORDER : 370 
++TAX( 17% ) : 62.9
+^ TOTAL : 432.9 ^
+**THANKS FOR BUYING IN OUR STORE**
+HANKS FOR BUYING IN OUR STORE**
+0$
+ 7- underpants code :008 Price - 30$
+ 8- slippers code :009 Price - 45$
+ SUM ORDER : 1325 
++TAX( 17% ) : 225.25
+^ TOTAL : 1550.25 ^
+**THANKS FOR BUYING IN OUR STORE**
