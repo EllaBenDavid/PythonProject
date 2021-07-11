@@ -183,7 +183,7 @@ def saveExcel(wbName,sheetName,p):
     sheet.cell(start_row_index-1, start_col_index+2).value = 'Price'          
     
     wb.save(wbName)
-    print(wbName+' created with '+str(count)+' rows')
+    print(wbName+' created with '+str(count)+' cells')
     
 def readExcel(wbName,sheetName):
     wb = openpyxl.load_workbook(wbName)
