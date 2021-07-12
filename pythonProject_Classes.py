@@ -1,5 +1,4 @@
-##Ella Ben David 206821332
-##Diana Medvedovsky 316080456
+
 
 import pyodbc  #SQL
 import openpyxl  #EXCEL
